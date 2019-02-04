@@ -1,4 +1,4 @@
-# Jenius
+# Jenius :older_man: :older_woman:
 The project aims to manufacture a smart cane that reduces the number of accidents elders face by integrating modern sensing and processing technologies. 
 
 ## Background
