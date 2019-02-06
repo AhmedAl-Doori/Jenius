@@ -1,4 +1,4 @@
-# Jenius :older_man: :older_woman:
+# Jenius :chart_with_upwards_trend: :closed_umbrella:
 The project aims to manufacture an assistive walking device that reduces the number of accidents elders face by integrating modern sensing and processing technologies. 
 
 ## Background
