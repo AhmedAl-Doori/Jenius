@@ -24,6 +24,10 @@ A carrier will have LED lights around that glow when approached to help see the 
 * Hollow sick to maintain light weight and hide the wires
 * Adjustable length and headlight
 ***
+## Resources
+* Raspberry PI 3
+* 
 ## Code
 ***
+
 ## Design
