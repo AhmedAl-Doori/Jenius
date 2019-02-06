@@ -18,10 +18,10 @@ The ultrasonic sensor maintains its oritentation because of the data a gyroscope
 ### Docking and Charging System
 A carrier will have LED lights around that glow when approached to help see the stick in the dark night. It also functions as a charger for the cane's battery.
 ### Further Optimization
-A pressure sensor can be used at the base so the algorithm only functions when there's ground contact. That saves battery energy.
-Different tones can be used as alarms to represent holes or bumps.
-Hollow sick to maintain light weight and hide the wires
-Adjustable length and headlight
+* A pressure sensor can be used at the base so the algorithm only functions when there's ground contact. That saves battery energy.
+* Different tones can be used as alarms to represent holes or bumps.
+* Hollow sick to maintain light weight and hide the wires
+* Adjustable length and headlight
 
 ## Code
 
