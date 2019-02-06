@@ -6,10 +6,10 @@ Cognitive and sensory abilities tend to deteriorate as one ages. According to WH
 years suffer the greatest number of fatal falls. Factors like environmental hazards, awareness, and assistive device
 disregard are all related and can be minimized with smart solutions. Normal wooden canes are cool, but their only function is to reduce the weight on the person's legs. My idea is to have a cane that does all the factors above at the same time. The cane is projected to detect obtacles and reduce the rate of injury.
 
-## Planning
-### Overview (An Earlier Visualization)
+## Early Planning
 ![overview](https://github.com/AhmedAl-Doori/Jenius/blob/master/Documentation/Overview.jpg)
 ***
+## Finalized Planning
 ### Processisng System (Finalized)
 A Raspberry PI 3 will be used to drive all the operations. Therefore, it should be located at the middle of the stick and enclosed by a shell of some sort to keep it protected. It's also useful to have the board easily reachable so the code can be edited anytime.
 ### Notification System (Finalized)
