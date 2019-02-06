@@ -17,7 +17,7 @@ The speaker is located near the handle so the user can hear the alarm clearly, w
 The ultrasonic sensor maintains its oritentation because of the data a gyroscope recieves; the gyroscope directs the servo to spin the sensor in the right way. The gyrscope needs to stay accurate at all times so the best option is to store it in the PI's shell near the middle of the stick. While the servo is connected to the ultrasonic sensor near the bottom.  
 ### Docking and Charging System
 A carrier will have LED lights around that glow when approached to help see the stick in the dark night. It also functions as a charger for the cane's battery.
-### Further Optimization
+### Further Optimizations
 * A pressure sensor can be used at the base so the algorithm only functions when there's ground contact. That saves battery energy.
 * Different tones can be used as alarms to represent holes or bumps.
 * Hollow sick to maintain light weight and hide the wires
