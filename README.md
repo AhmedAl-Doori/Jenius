@@ -10,6 +10,7 @@ disregard are all related and can be minimized with smart solutions. Normal wood
 ![overview](https://github.com/AhmedAl-Doori/Jenius/blob/master/Documentation/Overview.jpg)
 ***
 ## Finalized Planning
+The whole framework doesn't include an actual cain. All the pieces are intended wo be designed with holders that clamp to sticks. Doing so makes the device more widley used but will require some setup for the wiring. 
 ### Processisng System
 A Raspberry PI 3 will be used to drive all the operations. Therefore, it should be located at the middle of the stick and enclosed by a shell of some sort to keep it protected. It's also useful to have the board easily reachable so the code can be edited anytime.
 ### Notification System
